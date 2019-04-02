@@ -1,0 +1,53 @@
+/*Student number: 10514797, Student Name: Caleb Eke
+/* Styling for the navbar */
+#navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+  #navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+
+.content {
+  padding: 16px;
+}
+
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+
+
+td{
+    font-style: normal;
+    align-content: stretch;
+}
+
+body{
+    background-color: brown;
+    text-align: center;
+    
+  
+}
+.table{
+    scroll-behavior: auto;
+    
+    background-color: beige;
+}
+#messagePanel{
+    background-color: white ;
+    
+}
